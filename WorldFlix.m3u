@@ -1,2 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Channel_ID" tvg-name="BTV" tvg-logo="Channel_Logo_URL",Channel_Name
+http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
+
+#EXTINF:-2 tvg-id="Channel_ID" tvg-name="BTV World" tvg-logo="Channel_Logo_URL",Channel_Name
+http://stream_url_here.m3u8
+
+#EXTINF:-1 tvg-id="Channel_ID" tvg-name="ATN Bangla" tvg-logo="Channel_Logo_URL",Channel_Name
+http://stream_url_here.m3u8
