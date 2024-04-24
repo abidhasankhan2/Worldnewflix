@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo=”https://ibb.co/4SKF1jx” group-title=”india bangladash”, zee bangla hd
 http://103.107.79.87:8080/CH8110SD03/tracks-v1a1/mono.m3u8
 
-#EXTINF:-2 tvg-logo="https://i.ibb.co/NsNf4XJ/IMG-20240126-112842.png",star jolsa
+#EXTINF:-2 tvg-logo="https://i.ibb.co/NsNf4XJ/IMG-20240126-112842.png"group-title= india bangla ”,star jolsa
 http://103.107.79.87:8080/CH8110SD01/tracks-v1a1/mono.m3u8
 
 #EXTINF:-3 tvg-logo="https://ibb.co/4SKF1jx"group-title="india Bangladeshi",Zee bangla fhd
