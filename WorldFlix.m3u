@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/Zee_Bangla#/media/File%3AZee_Bangla_logo.png” group-title=”india bangladash”, zee bangla hd
+#EXTINF:-1 tvg-logo=”https://ibb.co/4SKF1jx” group-title=”india bangladash”, zee bangla hd
 http://103.107.79.87:8080/CH8110SD03/tracks-v1a1/mono.m3u8
 
 #EXTINF:-2 tvg-logo="https://en.wikipedia.org/wiki/Star_Jalsha#/media/File%3AStar_Jalsha_logo_2023.png"group-title=star jalsa Hd",BONGO  FLIX
