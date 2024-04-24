@@ -6,3 +6,6 @@ https://drive.usercontent.google.com/download?id=1hnukESeuf2Gs0Y8l5z_IirR42UKSZ5
 
 #EXTINF:-2 tvg-logo="https://i.ibb.co/Vj3Mh4B/IMG-20240320-113250.png"group-title="Bangladashi", Somoy Tv
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+
+#EXTINF:-3 tvg-logo="https://en.wikipedia.org/wiki/Bangladesh_Television#/media/File%3ABangladesh_Television_Logo.svg"group-title="Bangladashi", BTV
+http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
