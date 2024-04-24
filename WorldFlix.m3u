@@ -7,4 +7,10 @@ http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
 http://stream_url_here.m3u8
 
 #EXTINF:-1 tvg-id="Channel_ID" tvg-name="ATN Bangla" tvg-logo="Channel_Logo_URL",Channel_Name
-http://stream_url_here.m3u8
+http://stream_url_he
+
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png"group-title="",Zee Bangla
+http://103.107.79.87:8080/CH8110SD03/tracks-v1a1/mono.m3u8
